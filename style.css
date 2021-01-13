@@ -1,6 +1,8 @@
 body {
     margin: 0;
     padding-top: 800px;
+    background-color: cornsilk;
+
 }
 
 .profile {
@@ -72,7 +74,9 @@ p {
     vertical-align: middle;
 }
 
-.menu {
+ul {
+    padding: 0;
+    margin: 0;
     list-style: none;
     font-family: sans-serif;
     position: absolute;
@@ -93,13 +97,7 @@ p {
     font-size: 20px;
 }
 
-.link:hover {
-   color: blueviolet;
+#video {
+    text-align: center;
 }
-
-#video{
- text-align: center;   
-}
-
-
 
